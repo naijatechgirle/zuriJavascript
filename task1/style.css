@@ -1,0 +1,15 @@
+body {
+    font-family: cursive;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: crimson;
+    color: #fff;
+    font-size: 20px;
+}
